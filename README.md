@@ -2,22 +2,23 @@
 
 <div align="center">
     <img src="assets/ColesHomepage.gif">
+<div>
 
+
+
+<div align="left">
 
 I am currently a Second Year Software Engineering student @ McMaster University.
 
 Currently, I'm in the process of creating a 1-1 word translator between English and Japanese. This webscrapper has been my passion project for the past 2 years, with the idea originally stemming from needing a tool to assist with my Japanese studies (which I have been learning for the past 5 years)
-<!--
-**cole11smith33/cole11smith33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<footer align="center">
+    <a href="https://letterboxd.com/peakv/">
+        <img src="assets/Icons/Icon-Comp+Mouse.png" width="75">
+    <a>
+    <a href="https://rateyourmusic.com/~dmtetra">
+        <img src="assets/Icons/Icon-Music.png" width="100">
+    <a>
+<footer>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
