@@ -2,9 +2,16 @@
 
 <div align="center">
     <img src="assets/ColesHomepage.gif">
+    <img src="assets/Welcome.gif">
 <div>
 
+<style>
+body {
+  background-image: url('assets/checkboard.avif');
+}
+</style>
 
+<p style="background-image: url('assets/checkboard.avif');">
 
 <div align="left">
 
